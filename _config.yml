@@ -30,7 +30,7 @@ twitter_username: forestparkbirds
 github_username:  johanrhodin
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
