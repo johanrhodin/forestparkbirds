@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+We are a bird watching family in the Central West End that regularly visits Forest Park, with camera. We started birding in 2020 and have added photos to our Instagram since then. This site was added in 2022.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Our equipment include:
+ * Nikon D7500
+ * Nikon 200-500 zoom lens
+ * Merlin Bird Id App
+ * eBird App
