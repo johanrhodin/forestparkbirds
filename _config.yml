@@ -28,7 +28,8 @@ github_username:  johanrhodin
 instagram_username: forestparkbirds
 
 # Build settings
-theme: minima
+#theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 plugins:
   - jekyll-feed
 
