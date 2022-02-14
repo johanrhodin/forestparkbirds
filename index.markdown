@@ -13,7 +13,7 @@ tags:
 last_modified_at: 2022-01-31T14:28:50-05:00
 ---
 
-Welcome to the Forest Park Birds website.
+Welcome to the Forest Park Birds website. We're a bird loving family in the Central West End that likes to watch and take photos of birds in Forest Park.
 
 This post tests a horizontal image using the following YAML Front Matter:
 
