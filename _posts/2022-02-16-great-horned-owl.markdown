@@ -7,3 +7,4 @@ categories: owls
 
 The idea is to fill this page out so that it contains a lot of interesting facts about the Great Horned Owls in Forest Park.
 
+<img src="/images/great-horned-owls-steinberg-nov-22-2021.jpg" class="align-left" alt="Two great horned owls near Steinberg Ice rink ink Foreset Park, November 2021.">
