@@ -10,9 +10,9 @@ tags:
   - content
   - image
   - layout
-last_modified_at: 2022-01-31T14:28:50-05:00
+last_modified_at: 2023-02-17T07:28:50-05:00
 ---
 
-Welcome to the Forest Park Birds website. We're a bird loving family in the Central West End that likes to watch and take photos of birds in Forest Park.
+Welcome to the Forest Park Birds website. We're a bird loving family in Forest Park South East that likes to watch and take photos of birds in Forest Park.
 
 On this web page you can enjoy our pictures and get to know the birds of Forest Park.

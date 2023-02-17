@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-We are a bird watching family in the Central West End that regularly visits Forest Park, with camera. We started birding in 2020 and have added photos to our Instagram since then. This site was added in 2022.
+We are a bird watching family in Forest Park South East that regularly visits Forest Park, with camera. We started birding in 2020 and have added photos to our Instagram since then. This site was added in 2022.
 
 Our equipment include:
  * Nikon D7500
