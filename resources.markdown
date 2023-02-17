@@ -10,6 +10,8 @@ permalink: /resources/
 - Randy L. Korotev's [Timetable for Spring Migration of Birds through Forest Park, St. Louis — 1979–2002](https://sites.wustl.edu/fpmigrantbirds/)
 - Photos of birds seen by Bob and Sally in Forest Park. [Photos seen or taken by Sally Sharamitaro and Bob Corbett](http://faculty.webster.edu/corbetre/birds/park-bird-photos.html)
 - St. Louis Audubon Society [Creating a community connection to nature through education and conservation](https://stlouisaudubon.org/)
+- Forest Parl Living Lab [studies the thriving urban ecosystem](https://www.forestparklivinglab.org/) 
 
 # Books
 - Photography Birds: Field Techniques and the Art of the Image by Gerrit Vyn [Amazon](https://www.amazon.com/Photography-Birds-Field-Techniques-Image/dp/1680510991/)
+- Slow Birding: The Art and Science of Enjoying the Birds in Your Own Backyard [PenguinRandomHouse](https://www.penguinrandomhouse.com/books/667563/slow-birding-by-joan-e-strassmann/) has a chapter on Forest Park.
